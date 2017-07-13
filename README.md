@@ -12,6 +12,7 @@ A simple blog application using the REST architecture. The 7 RESTful routes are 
 * [MongoDB](https://www.mongodb.com/)
 * [Mongoose](http://mongoosejs.com/)
 * [EJS](http://ejs.co/)
+* Semantic UI
 * CSS
 * HTML
 
